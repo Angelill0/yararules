@@ -14,5 +14,4 @@ rule isfb_gozi_V217039_C2_memory {
         $s1  or $s2 or  $s3
 
 }
-~
-~
+
